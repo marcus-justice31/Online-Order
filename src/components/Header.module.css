@@ -3,7 +3,7 @@
 .header {
     width: 100%;
     height: 400;
-    background: url('/Users/marcusuy/VsCode/React/online-order/src/assets/img/banner.jpg') no-repeat center/cover;
+    background: url('../assets/img/banner.jpg') no-repeat center/cover;
 }
 
 .nav-items {
